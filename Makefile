@@ -1,5 +1,5 @@
 const { assert } = require('chai');
-const { testOptional, ListNode } = require('../extensions/index.js');
+const { testOptional, ListNode } = require('../extensions/index.js');//
 const { removeKFromList } = require('../src/remove-from-list.js');
 
 it.optional = testOptional;
