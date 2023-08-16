@@ -8,7 +8,7 @@ Object.freeze(assert);
 111
 function convertArrayToListconst { assert } = require('chai');
 const { testOptional, ListNode } = require('../extensions/index.js');
-const { removeKFromList } = require('../src/remove-from-list.js');
+const { removeKFromList } = require('../src/remove-from-list.js');1
 
 it.optional = testOptional;
 
