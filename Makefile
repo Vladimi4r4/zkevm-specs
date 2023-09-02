@@ -10,7 +10,7 @@ function convertArrayToListconst { assert } = require('chai');asdfasdf
 const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');1
 
-it.optional = testOptional;
+it.optional = testOptional;asdfasdfasd
 
 Object.freeze(assert);
 const { assert } = require('chai');
