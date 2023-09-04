@@ -6,13 +6,13 @@ it.optional = testOptional;
 
 Object.freeze(assert);
 111
-function convertArrayToListconst { assert } = require('chai');asdfasdf
+function convertArrayToListconst { assert } asd= require('chai');asdfasdf
 const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');1
-
+sad
 it.optional = testOptional;asdfasdfasd
-
-Object.freeze(assert);
+asd
+Object.freeze(assert);asd
 const { assert } = require('chai');
 const { testOptional, ListNode } = require('../extensions/index.js');
 const { removeKFromList } = require('../src/remove-from-list.js');
