@@ -1,4 +1,4 @@
-[build-system]
+asdfasdfas[build-system]
 requires = [
     "setuptools>=42",
     "wheel"
