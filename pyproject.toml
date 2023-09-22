@@ -1,5 +1,5 @@
 dasfasdfasdfasdfasdfasdfas[build-system]
-requires = [
+requires = [asdfasdf
     "setuptools>=42",
     "wheel"
 ]
